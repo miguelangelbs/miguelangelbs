@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-📱🚀 Desarrollador Multiplataforma con una base sólida en backend 🐘 PHP y frameworks como CodeIgniter, Symfony y Laravel. <br>También he trabajado con 🌐 Ionic + Angular y bases de datos 🐬 MySQL y 🐘 PostgreSQL.<br>Actualmente me estoy especializando en 🔒 Ciberseguridad y 🤖 Kotlin + 🧩 Jetpack Compose para expandir mis habilidades hacia el desarrollo móvil.<br>Mi objetivo es crear 💡 soluciones prácticas y seguras para así mejorar continuamente como profesional. 📈
+📱🚀 Desarrollador Multiplataforma con una base sólida en backend 🐘 PHP y frameworks como CodeIgniter, Symfony y Laravel. <br>También he trabajado con 🌐 Ionic + Angular y bases de datos 🐬 MySQL y 🐘 PostgreSQL.<br>Mi objetivo es crear 💡 soluciones prácticas y seguras para así mejorar continuamente como profesional. 📈
 
 
 ## 🌐 Contacto:
